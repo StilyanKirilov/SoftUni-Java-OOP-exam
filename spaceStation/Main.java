@@ -1,9 +1,9 @@
-package Aug_15_SpaceStation.spaceStation;
+package spaceStation;
 
-import Aug_15_SpaceStation.spaceStation.core.Controller;
-import Aug_15_SpaceStation.spaceStation.core.ControllerImpl;
-import Aug_15_SpaceStation.spaceStation.core.Engine;
-import Aug_15_SpaceStation.spaceStation.core.EngineImpl;
+import spaceStation.core.Controller;
+import spaceStation.core.ControllerImpl;
+import spaceStation.core.Engine;
+import spaceStation.core.EngineImpl;
 
 public class Main {
     public static void main(String[] args) {

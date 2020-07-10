@@ -1,4 +1,4 @@
-package Aug_15_SpaceStation.spaceStation.models.astronauts;
+package spaceStation.models.astronauts;
 
 public class Biologist extends BaseAstronaut {
     private static final double OXYGEN = 70.0;

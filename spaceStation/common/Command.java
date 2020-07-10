@@ -1,4 +1,4 @@
-package Aug_15_SpaceStation.spaceStation.common;
+package spaceStation.common;
 
 public enum Command {
     AddAstronaut,

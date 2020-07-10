@@ -1,8 +1,8 @@
-package Aug_15_SpaceStation.spaceStation.models.planets;
+package spaceStation.models.planets;
 
 import java.util.*;
 
-import static Aug_15_SpaceStation.spaceStation.common.ExceptionMessages.PLANET_NAME_NULL_OR_EMPTY;
+import static spaceStation.common.ExceptionMessages.PLANET_NAME_NULL_OR_EMPTY;
 
 public class PlanetImpl implements Planet {
     private String name;

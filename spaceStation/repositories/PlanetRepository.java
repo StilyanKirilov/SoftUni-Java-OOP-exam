@@ -1,6 +1,6 @@
-package Aug_15_SpaceStation.spaceStation.repositories;
+package spaceStation.repositories;
 
-import Aug_15_SpaceStation.spaceStation.models.planets.Planet;
+import spaceStation.models.planets.Planet;
 
 import java.util.Collection;
 import java.util.LinkedHashMap;

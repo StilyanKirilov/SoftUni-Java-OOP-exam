@@ -1,10 +1,10 @@
-package Aug_15_SpaceStation.spaceStation.models.astronauts;
+package spaceStation.models.astronauts;
 
-import Aug_15_SpaceStation.spaceStation.models.bags.Backpack;
-import Aug_15_SpaceStation.spaceStation.models.bags.Bag;
+import spaceStation.models.bags.Backpack;
+import spaceStation.models.bags.Bag;
 
-import static Aug_15_SpaceStation.spaceStation.common.ExceptionMessages.ASTRONAUT_NAME_NULL_OR_EMPTY;
-import static Aug_15_SpaceStation.spaceStation.common.ExceptionMessages.ASTRONAUT_OXYGEN_LESS_THAN_ZERO;
+import static spaceStation.common.ExceptionMessages.ASTRONAUT_NAME_NULL_OR_EMPTY;
+import static spaceStation.common.ExceptionMessages.ASTRONAUT_OXYGEN_LESS_THAN_ZERO;
 
 public abstract class BaseAstronaut implements Astronaut {
     private String name;

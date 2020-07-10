@@ -1,4 +1,4 @@
-package Aug_15_SpaceStation.spaceStation.common;
+package spaceStation.common;
 
 public class ConstantMessages {
     public static final String ASTRONAUT_ADDED = "Successfully added %s: %s!";

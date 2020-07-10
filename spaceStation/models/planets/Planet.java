@@ -1,4 +1,4 @@
-package Aug_15_SpaceStation.spaceStation.models.planets;
+package spaceStation.models.planets;
 
 import java.util.Collection;
 

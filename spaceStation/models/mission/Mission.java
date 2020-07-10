@@ -1,7 +1,7 @@
-package Aug_15_SpaceStation.spaceStation.models.mission;
+package spaceStation.models.mission;
 
-import Aug_15_SpaceStation.spaceStation.models.astronauts.Astronaut;
-import Aug_15_SpaceStation.spaceStation.models.planets.Planet;
+import spaceStation.models.astronauts.Astronaut;
+import spaceStation.models.planets.Planet;
 
 import java.util.Collection;
 

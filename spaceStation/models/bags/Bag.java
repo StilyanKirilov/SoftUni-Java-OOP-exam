@@ -1,4 +1,4 @@
-package Aug_15_SpaceStation.spaceStation.models.bags;
+package spaceStation.models.bags;
 
 import java.util.Collection;
 

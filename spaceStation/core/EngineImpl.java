@@ -1,6 +1,6 @@
-package Aug_15_SpaceStation.spaceStation.core;
+package spaceStation.core;
 
-import Aug_15_SpaceStation.spaceStation.common.Command;
+import spaceStation.common.Command;
 
 import java.io.BufferedReader;
 import java.io.IOException;

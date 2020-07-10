@@ -1,4 +1,4 @@
-package Aug_15_SpaceStation.spaceStation.repositories;
+package spaceStation.repositories;
 
 import java.util.Collection;
 

@@ -1,23 +1,23 @@
-package Aug_15_SpaceStation.spaceStation.core;
+package spaceStation.core;
 
-import Aug_15_SpaceStation.spaceStation.models.astronauts.Astronaut;
-import Aug_15_SpaceStation.spaceStation.models.astronauts.Biologist;
-import Aug_15_SpaceStation.spaceStation.models.astronauts.Geodesist;
-import Aug_15_SpaceStation.spaceStation.models.astronauts.Meteorologist;
-import Aug_15_SpaceStation.spaceStation.models.mission.Mission;
-import Aug_15_SpaceStation.spaceStation.models.mission.MissionImpl;
-import Aug_15_SpaceStation.spaceStation.models.planets.Planet;
-import Aug_15_SpaceStation.spaceStation.models.planets.PlanetImpl;
-import Aug_15_SpaceStation.spaceStation.repositories.AstronautRepository;
-import Aug_15_SpaceStation.spaceStation.repositories.PlanetRepository;
-import Aug_15_SpaceStation.spaceStation.repositories.Repository;
+import spaceStation.models.astronauts.Astronaut;
+import spaceStation.models.astronauts.Biologist;
+import spaceStation.models.astronauts.Geodesist;
+import spaceStation.models.astronauts.Meteorologist;
+import spaceStation.models.mission.Mission;
+import spaceStation.models.mission.MissionImpl;
+import spaceStation.models.planets.Planet;
+import spaceStation.models.planets.PlanetImpl;
+import spaceStation.repositories.AstronautRepository;
+import spaceStation.repositories.PlanetRepository;
+import spaceStation.repositories.Repository;
 
 import java.util.Collection;
 import java.util.List;
 import java.util.stream.Collectors;
 
-import static Aug_15_SpaceStation.spaceStation.common.ConstantMessages.*;
-import static Aug_15_SpaceStation.spaceStation.common.ExceptionMessages.*;
+import static spaceStation.common.ConstantMessages.*;
+import static spaceStation.common.ExceptionMessages.*;
 
 public class ControllerImpl implements Controller {
     private Repository<Astronaut> astronautRepository;

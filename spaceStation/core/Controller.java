@@ -1,4 +1,4 @@
-package Aug_15_SpaceStation.spaceStation.core;
+package spaceStation.core;
 
 public interface Controller {
     String addAstronaut(String type, String astronautName);

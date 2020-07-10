@@ -1,4 +1,4 @@
-package Aug_15_SpaceStation.spaceStation.core;
+package spaceStation.core;
 
 public interface Engine extends Runnable {
 }

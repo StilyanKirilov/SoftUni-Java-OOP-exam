@@ -1,6 +1,6 @@
-package Aug_15_SpaceStation.spaceStation.models.astronauts;
+package spaceStation.models.astronauts;
 
-import Aug_15_SpaceStation.spaceStation.models.bags.Bag;
+import spaceStation.models.bags.Bag;
 
 public interface Astronaut {
     String getName();
